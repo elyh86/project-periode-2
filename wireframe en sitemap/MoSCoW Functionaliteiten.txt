@@ -1,0 +1,25 @@
+MoSCoW Functionaliteiten
+Must haves (Moet erin)
+Dit zijn de basisdingen die echt in je portfolio moeten zitten:
+
+Secties zoals "Over mij", "Projecten", en "Contact".
+Responsief ontwerp dat werkt op telefoon, tablet en computer.
+Navigatiebalk om makkelijk door de site te klikken.
+Contactinfo met een e-mail link.
+Projectenoverzicht met foto’s en uitleg per project.
+Should haves (Handig om te hebben)
+Deze dingen maken je portfolio mooier, maar zijn niet per se nodig:
+
+Extra styling zoals kleuren en lettertypes die goed passen.
+Hover-effecten bij knoppen en foto’s voor een leuke touch.
+Kleine animaties zoals tekst die in beeld komt.
+Social media links om mensen naar je socials te sturen.
+Could haves (Leuk om te hebben)
+Leuke extra’s die je portfolio nog beter maken als je tijd over hebt:
+
+Animaties bij onderdelen, zoals het menu of bij scrollen.
+Meer projectdetails die openen in een pop-up als je erop klikt.
+Dark mode zodat gebruikers kunnen kiezen tussen een lichte of donkere versie.
+Scroll-to-top knop om makkelijk terug naar boven te gaan.
+Won't haves (Komt er niet in)
+Deze dingen komen niet in het project, omdat ze niet nodig zijn of te ingewikkeld zijn:

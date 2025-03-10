@@ -1,0 +1,34 @@
+Projectplan Portfolio Maken (HTML & CSS)
+Week 1: Startfase
+Wat gedaan: Doel bepalen en onderzoek doen naar verschillende stijlen en layouts van portfolio's.
+Mijlpaal: Duidelijk plan en ideeën voor de website.
+Benodigd: Internet en notitieboek voor ideeën.
+Week 2: Ontwerp
+Wat gedaan: Schetsen maken voor de indeling, kleuren kiezen, lettertypes en thema bepalen.
+Mijlpaal: Layout en kleuren liggen vast.
+Benodigd: Kleurentool, schetssoftware of pen en papier.
+Week 3-4: Bouwen (HTML en CSS)
+Wat gedaan: HTML-structuur opzetten en CSS-styling toepassen. Testen op verschillende schermgroottes.
+Mijlpaal: Eerste versie van de site is af.
+Benodigd: Code editor (bijv. VS Code) en browser.
+Week 5: Verbeteren
+Wat gedaan: Feedback gevraagd en aanpassingen gemaakt op basis van tips.
+Mijlpaal: Verbeterde versie van de site.
+Benodigd: Feedback van klasgenoten of docent.
+Week 6: Testen
+Wat gedaan: Eindtesten uitgevoerd op verschillende apparaten en browsers, links en layout gecontroleerd.
+Mijlpaal: Site werkt goed en is klaar.
+Benodigd: Verschillende apparaten en browsers.
+Week 7-8: Extra Leren en Verfijnen
+Wat gedaan: Nieuwe technieken uitgeprobeerd, zoals animaties of extra styling. Extra functies toegevoegd.
+Mijlpaal: Site is verder verbeterd en heeft nieuwe elementen.
+Benodigd: Tutorials of andere leermiddelen.
+Watervalmethode Fasen
+Planning - Doelen en planning vastgesteld.
+Ontwerp - Layout en stijl vastgelegd.
+Uitvoering - HTML en CSS gemaakt.
+Controle - Eindtesten uitgevoerd.
+Afsluiting - Extra functies toegevoegd door vroege afronding.
+Reflectie
+Doordat ik in week 6 al klaar was, had ik de laatste weken extra tijd om nieuwe technieken te leren en mijn portfolio te verbeteren. Hierdoor heb ik meer kennis opgedaan en kon ik de site verder verfijnen.
+
